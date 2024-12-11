@@ -1,4 +1,5 @@
 class Cao:
+   #construtor
    def __init__(self, nome, cor, idade, peso):
        self.nome = nome
        self.cor = cor
