@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\bin\Debug\net7.0\csharp.exe
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\bin\Debug\net7.0\csharp.deps.json
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\bin\Debug\net7.0\csharp.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\bin\Debug\net7.0\csharp.dll
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\bin\Debug\net7.0\csharp.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\obj\Debug\net7.0\csharp.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\obj\Debug\net7.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\obj\Debug\net7.0\csharp.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\obj\Debug\net7.0\csharp.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\obj\Debug\net7.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\obj\Debug\net7.0\csharp.dll
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\obj\Debug\net7.0\refint\csharp.dll
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\obj\Debug\net7.0\csharp.pdb
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\obj\Debug\net7.0\csharp.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\GitHub\pos_engenharia_software\POO\csharp\obj\Debug\net7.0\ref\csharp.dll
