@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vuOfmfEm4PstWSSkTgqDQyQU0ac1jSjQhdtpoesYINC7TtPWXhnMZaw/220biCMIFD5cS8n6U1syniwEnKwtow==",
+  "dgSpecHash": "wU+8az6MR1o=",
   "success": true,
   "projectFilePath": "C:\\Users\\rafae\\OneDrive\\Documentos\\GitHub\\pos_engenharia_software\\POO\\csharp\\csharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
